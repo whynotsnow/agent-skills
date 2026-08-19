@@ -1,4 +1,4 @@
-# Agent Skill
+# Agent Skills
 
 Open-source baseline for reusable Codex skills maintained by whynotsnow.
 
@@ -57,4 +57,3 @@ cp -R skills/agent-project-sidecar ~/.codex/skills/
 ```
 
 Restart Codex or reload skills after installing or updating local copies.
-
