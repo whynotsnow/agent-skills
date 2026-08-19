@@ -1,0 +1,4 @@
+interface:
+  display_name: "Agent Project Sidecar"
+  short_description: "为项目接入 planning sidecar"
+  default_prompt: "使用 $agent-project-sidecar 为真实开发项目创建、接入或维护相邻的 planning sidecar。"
